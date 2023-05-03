@@ -1,9 +1,6 @@
 # Workspace cleaner
 
 Actions para limpiar el los archivos alojados por el checkout del repositorio y la utilización de Actions en el runner.
-<p align="right">
-  <img width="210" height="200" alt="action" src="public/img/papelera.png">
-</p>
 
 ## ¿Workspace cleaner?
 
