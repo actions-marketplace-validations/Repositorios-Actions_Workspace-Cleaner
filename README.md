@@ -22,7 +22,7 @@ IMPORTANTE: Este actions requiere definir un parametro de entrada que seria el n
 Ejemplo:
 
 <p align="center">
-  <img width="561" height="60" alt="action" src="public/img/action.PNG">
+  <img width="561" height="60" alt="action" src="public/img/action_one.png">
 </p>
 
 2. Pega en tu workflow y añade la etiqueta with: añadiendo el parametro workspace_repository: .
