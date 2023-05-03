@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="200" alt="action" src="public/img/papelera.png">
+  <img width="250" height="200" alt="action" src="public/img/papelera.png">
 </p>
 
 # Workspace cleaner
