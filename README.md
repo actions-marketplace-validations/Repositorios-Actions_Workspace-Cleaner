@@ -9,8 +9,8 @@ Actions para limpiar el los archivos alojados por el checkout del repositorio y 
 
 Workspace cleaner es un action que permite la eliminación de los archivos alojados en el runner especficamente en 2 directorios.
 
-    1- My_Repository
-    2- _Actions
+- My_Repository
+- _Actions
 
 <p align="center">
   <img width="541" height="234" alt="consola" src="public/img/consola.png">
@@ -46,5 +46,5 @@ Ejemplo 2:
 
 ## Ejecución por consola
 
-- rm -rf _actions
-- rm -rf my_repository
+1- rm -rf _actions
+2- rm -rf my_repository
