@@ -44,4 +44,5 @@ Ejemplo 2:
 ## Ejecución por consola
 
 1- rm -rf _actions
+
 2- rm -rf my_repository
