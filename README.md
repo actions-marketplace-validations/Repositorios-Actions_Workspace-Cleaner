@@ -1,10 +1,9 @@
-<p align="center">
-  <img width="250" height="200" alt="action" src="public/img/papelera.png">
-</p>
-
 # Workspace cleaner
 
 Actions para limpiar el los archivos alojados por el checkout del repositorio y la utilización de Actions en el runner.
+<p align="rigth">
+  <img width="230" height="200" alt="action" src="public/img/papelera.png">
+</p>
 
 ## ¿Workspace cleaner?
 
@@ -14,7 +13,7 @@ Workspace cleaner es un action que permite la eliminación de los archivos aloja
     2- _Actions
 
 <p align="center">
-  <img width="541" height="234" alt="action" src="public/img/consola.png">
+  <img width="541" height="234" alt="consola" src="public/img/consola.png">
 </p>
 
 IMPORTANTE: Este actions requiere definir un parametro de entrada que seria el nombre del repositorio que deseas eliminar.
