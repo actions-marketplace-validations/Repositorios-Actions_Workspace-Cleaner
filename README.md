@@ -17,7 +17,7 @@ IMPORTANTE: Este actions requiere definir un parametro de entrada que seria el n
 
 ## Instrucciones
 
-1. Copiar el llamado del action en el maketplace de GitHub. Recomendamos usar siempre la ultima versión puedes obtenerla acá [workspace-cleaner](https://github.com/marketplace/actions/workspace-cleaner).
+1. Copiar el llamado del action en el maketplace de GitHub. Recomendamos usar siempre la ultima versión.
 
 Ejemplo:
 
