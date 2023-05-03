@@ -1,0 +1,17 @@
+name: "Workspace cleaner"
+description: | 
+  "Es un actions para limpiar la carpeta raiz del repositorio y el directorio _Actions."
+branding:
+  icon: 'trash-2'
+  color: 'white'
+inputs:
+  workspace_repository:
+    description: 'Nombre del workspace'
+    required: true
+runs:
+  using: 'composite'
+  steps:
+    - run: |
+        rm -rf _actions
+        rm -rf ${{ inputs.workspace_repository }}/
+      shell: bash
