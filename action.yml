@@ -14,4 +14,4 @@ runs:
     - run: |
         rm -rf _actions
         rm -rf ${{ inputs.workspace_repository }}/
-      shell: bash
+      shell: bash 
