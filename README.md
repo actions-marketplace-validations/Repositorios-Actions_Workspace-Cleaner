@@ -2,7 +2,7 @@
 
 Actions para limpiar el los archivos alojados por el checkout del repositorio y la utilización de Actions en el runner.
 
-## ¿Workspace cleaner?
+## ¿Que es Workspace cleaner?
 
 Workspace cleaner es un action que permite la eliminación de los archivos alojados en el runner especficamente en 2 directorios.
 
